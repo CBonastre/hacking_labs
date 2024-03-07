@@ -1,5 +1,5 @@
 # Guía Rápida para HackMePls de VulnHub
-Aquí tienes la guía relámpago para conquistar la máquina virtual HackMePls en VulnHub.
+Aquí tienes la guía relámpago para conquistar la máquina virtual HackMePls de VulnHub.
 
 
 ## Escaneo y enumeración
