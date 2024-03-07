@@ -166,3 +166,4 @@ Conociendo las credenciales del usuario cambio al usuario **saket**.
 
 ![Captura de pantalla 2024-03-06 173147](https://github.com/CBonastre/hacking_labs/assets/151465796/0eacb349-8175-432f-9523-24138b631755)
 
+Con esto ya he conseguido acceso remoto a la máquina víctima como el usuario **root**.
