@@ -157,7 +157,7 @@ Conociendo las credenciales del usuario cambio al usuario **saket**.
 ![Captura de pantalla 2024-03-06 172843](https://github.com/CBonastre/hacking_labs/assets/151465796/7975cc1e-fe7f-4a92-80fb-75af44b41c43)
 
 
-**3-** Llegado a este punto me interesa escalar privilegios, y conseguir ser el usuario root. Para ello ejecuto el comando el comando "sudo -l" y veo que siendo el usuario saket puedo ejecutar cualquier comando.
+**3-** Llegado a este punto me interesa escalar privilegios, y conseguir ser el usuario root. Para ello ejecuto el comando "sudo -l" y veo que siendo el usuario saket puedo ejecutar cualquier comando.
 
 ![Captura de pantalla 2024-03-06 173049](https://github.com/CBonastre/hacking_labs/assets/151465796/d8835523-9d52-4bf7-966b-4b2787e67b48)
 
