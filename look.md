@@ -78,7 +78,7 @@ No encuentro ningún archivo o directorio que pueda darme esta información, as�
 ![Captura de pantalla 2024-03-18 232032](https://github.com/CBonastre/hacking_labs/assets/151465796/89445e49-56cc-436c-8e7b-d35a79ab065a)
 
 
-Bingo! Encuentro la contraseña para el usuario "dylan". Ahora puedo pivotar al usuario "dylan" y desde ese usuario tratar de escalar hasta el usuario "root".
+Encuentro la contraseña para el usuario "dylan". Ahora puedo pivotar al usuario "dylan" y desde ese usuario tratar de escalar hasta el usuario "root".
 
 ![Captura de pantalla 2024-03-18 232232](https://github.com/CBonastre/hacking_labs/assets/151465796/fcb26308-66f4-4527-9f4d-aeeb1da53f8e)
 
