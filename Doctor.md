@@ -1,7 +1,7 @@
 ## Resolución de la máquina Doctor de Vulnyx
 
 ### 1. **Escaneo de Puertos con Nmap**
-Comenzamos realizando un escaneo con `nmap` para identificar los servicios abiertos en la máquina objetivo. Usamos el siguiente comando:
+Comenzamos realizando un escaneo con `nmap` para identificar los servicios abiertos en la máquina objetivo.
 Identificamos que los puertos **SSH (22)** y **HTTP (80)** están abiertos.
 
 ![Captura de pantalla 2024-10-10 135202](https://github.com/user-attachments/assets/b20e0a3e-f588-4fc2-b2a8-c54fa1dd1b75)
